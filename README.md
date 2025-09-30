@@ -2,7 +2,6 @@
 subqueries amd correlated queries using differnt operators  like IN, Exists, >, = operators
 
 select * from scott.emp;
-
 select * from scott.DEPT;
 
 // sub queries
